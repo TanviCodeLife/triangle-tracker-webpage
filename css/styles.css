@@ -1,0 +1,7 @@
+.format{
+  text-align: center;
+}
+
+#resultNeg, #resultPos {
+  display: none;
+}
