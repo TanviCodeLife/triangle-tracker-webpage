@@ -2,6 +2,6 @@
   text-align: center;
 }
 
-#resultNeg, #resultPos {
+#equiresult, #isoresult, #scaresult, #notresult{
   display: none;
 }
